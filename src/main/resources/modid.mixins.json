@@ -1,0 +1,24 @@
+{
+	"required": true,
+	"package": "com.example.liquorclient.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"MinecraftClientAccessor",
+		"ClientPlayerEntityMixin",
+		"MultiplayerScreenMixin",
+		"MinecraftClientMixin",
+		"ClientPlayNetworkHandlerMixin",
+		"GameRendererMixin",
+		"ClientConnectionMixin",
+		"EntityMixin",
+		"EntityS2CPacketAccessor",
+		"ClientWorldAccessor",
+		"LightmapTextureManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

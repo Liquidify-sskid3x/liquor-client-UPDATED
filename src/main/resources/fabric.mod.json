@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "liquorclient",
+  "version": "1.0.0",
+  "name": "Liquor Client",
+  "description": "hi! if you see this then you gotta see the credits now!\n- ᴄᴏꜱᴍɪᴄ ☄️ beta tester\n- Liquidify main developer",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.liquorclient.LiquorClient"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "fabric": "*",
+    "minecraft": "1.21.11"
+  },
+  "icon": "assets/liquorclient/icon.png"
+}
