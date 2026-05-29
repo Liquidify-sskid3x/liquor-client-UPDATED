@@ -1,6 +1,7 @@
 # Liquor Client
+<img width="496" height="503" alt="image" src="https://github.com/user-attachments/assets/7673a0a7-84dc-4b5a-8469-75cb4704c8f3" />
 
-movement
+# movement
 
 * Sprint: auto sprint with hunger check and multi direction
 * NoSlow: run full speed while eating
@@ -17,12 +18,12 @@ combat
 * FakeLag: delay your packets for a lag effect
 * TickBase: skip ticks for positional advantage
 
-player
+# player
 
 * ChestStealer: take everything instantly
 * FastPlace: place blocks faster
 
-render
+# render
 
 * Better Tooltips: see durability enchants and item id on hover
 * Reach Display: see your attack distance
@@ -33,13 +34,13 @@ render
 * Fullbright: see in the dark
 * Zoom: zoom in
 
-world
+# world
 
 * Scaffold: place blocks under you while sneaking
 
-misc
+# misc
 
-* Auto GG: say gg automatically
+* Auto GG: say gg automatically (broken)
 
 profiles and cracked accounts are saved in liquor/profiles/ and liquor/accounts/
 
