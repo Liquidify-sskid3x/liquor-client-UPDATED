@@ -7,13 +7,17 @@
 		"ClientPlayerEntityMixin",
 		"MultiplayerScreenMixin",
 		"MinecraftClientMixin",
+		"ClientCommonNetworkHandlerMixin",
 		"ClientPlayNetworkHandlerMixin",
 		"GameRendererMixin",
+		"GameRendererAccessor",
+		"CameraAccessor",
 		"ClientConnectionMixin",
 		"EntityMixin",
 		"EntityS2CPacketAccessor",
 		"ClientWorldAccessor",
-		"LightmapTextureManagerMixin"
+		"LightmapTextureManagerMixin",
+		"MouseMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
