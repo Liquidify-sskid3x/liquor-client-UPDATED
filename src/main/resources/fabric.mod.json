@@ -8,6 +8,9 @@
   "entrypoints": {
     "client": [
       "com.example.liquorclient.LiquorClient"
+    ],
+    "modmenu": [
+      "com.example.liquorclient.integration.ModMenuIntegration"
     ]
   },
   "mixins": [
