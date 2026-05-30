@@ -1,48 +1,52 @@
 # Liquor Client
 <img width="496" height="503" alt="image" src="https://github.com/user-attachments/assets/7673a0a7-84dc-4b5a-8469-75cb4704c8f3" />
 
-# movement
+**Developer > Fonts** pick Orbitron Chakra Petch Poppins for the GUI HUD nametags and notifications
 
-* Sprint: auto sprint with hunger check and multi direction
-* NoSlow: run full speed while eating
+**HUD Editor** drag HUDs around Right-click to cycle anchor (top → left → bottom → right)
 
-combat
+**Developer Panel** shows game & config paths module count and a live log viewer
 
-* Backtrack: hit em where they were
-* TriggerBot: automatiucally click when youre looking at someone
-* AimAssist: aim correction for you
-* Reach: hit from farther away
-* Hitbox: bigger targets
-* Velocity: take less knockback
-* WTap: reset sprint for more knockback
-* FakeLag: delay your packets for a lag effect
-* TickBase: skip ticks for positional advantage
+Profiles under `liquor/profiles/` accounts under `liquor/accounts/` **Right Shift** opens the ClickGUI
 
-# player
+## Modules
 
-* ChestStealer: take everything instantly
-* FastPlace: place blocks faster
+### Combat
+- **Backtrack** - hit em where they were
+- **TriggerBot** - click when looking at someone
+- **AimAssist** - aim correction
+- **Reach** - hit from farther away
+- **Hitbox** - bigger targets
+- **Velocity** - less knockback
+- **WTap** - reset sprint for more knockback
+- **FakeLag** - delay packets
+- **TickBase** - skip ticks
 
-# render
+### Movement
+- **Sprint** - auto sprint with hunger check (wow)
 
-* Better Tooltips: see durability enchants and item id on hover
-* Reach Display: see your attack distance
-* ClickGUI: toggle modules and tweak settings
-* 2D ESP: see entities through walls
-* Chest ESP: find chests through walls
-* Item ESP: see dropped items through walls
-* Fullbright: see in the dark
-* Zoom: zoom in
+### Player
+- **ChestStealer** - take everything instantly
+- **FastPlace** - place blocks faster
 
-# world
+### Render
+- **Better Tooltips** - see durability enchants and item id on hover
+- **Reach Display** - see attack distance
+- **ClickGUI** - toggle modules and settings (Right Shift)
+- **2D ESP** - see entities through walls
+- **Chest ESP** - find chests through walls
+- **Item ESP** - see dropped items through walls
+- **Fullbright** - see in the dark (broken)
+- **Zoom** - zoom in
 
-* Scaffold: place blocks under you while sneaking
+### World
+- **Scaffold** - place blocks under you while sneaking
 
-# misc
+### Misc
+- **Auto GG** - say gg
 
-* Auto GG: say gg automatically (broken)
+### Developer
+- **Developer Panel** - diagnostics log viewer font picker
 
-profiles and cracked accounts are saved in liquor/profiles/ and liquor/accounts/
 
-toggle modules with the clickgui(right shift)
-
+# i know i missed some stuff so dont get mad ok?
