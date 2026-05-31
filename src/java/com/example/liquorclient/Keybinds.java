@@ -19,7 +19,7 @@ public class Keybinds {
 
     public static void register() {
         openMenuKey = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.liquorclient.open_menu",
+                "liquor Client GUI",
                 GLFW.GLFW_KEY_RIGHT_SHIFT,
                 KeyBinding.Category.MISC
         ));
